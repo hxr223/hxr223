@@ -1,8 +1,10 @@
-# 你好，我是老黄 👋
+# 你好，我是旭瑞 / Xurui
 
-**AI Agent 工具开发者 · AI coding tools & practical agent workflows**
+**AI Agent Developer · Agent Harnesses & Coding Agents**
 
-我在开发让 AI 完成实际工作的工具：从终端编程助手，到把 AI 设计图变成可编辑文件的 Agent Skills。
+我是一名拥有两年 AI Agent 开发经验的开发者，专注 Agent Harness 与 Coding Agent。
+熟悉事件驱动架构、ReAct、工具调用、多 Agent 协作，以及记忆管理、评测、Agent Review 和沙箱执行机制。
+正在开发开源终端编程助手 [laoHuangCode](https://github.com/hxr223/laoHuangCode)。
 
 ## 代表作品
 
