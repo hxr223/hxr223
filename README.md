@@ -36,6 +36,6 @@
 ## 社区参与
 
 - **AI Agent Book**：反馈 Mem0 与 MCP 案例的版本兼容及内容一致性问题，提供复现步骤与修订建议；两项反馈均获作者采纳，相关正文和实验已更新。[#596](https://github.com/bojieli/ai-agent-book/issues/596) · [#625](https://github.com/bojieli/ai-agent-book/issues/625)
-- **Hermes Agent**：提交[企业微信文件消息处理修复](https://github.com/NousResearch/hermes-agent/pull/19121)。
+- **Hermes Agent**：提交企业微信文件消息处理修复。
 
 欢迎通过项目 Issues 交流使用反馈、问题和改进建议。
