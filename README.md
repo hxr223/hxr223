@@ -1,4 +1,4 @@
-# 你好，我是旭瑞 / Xurui
+# 你好，我是黄旭瑞
 
 **AI Agent Developer · Agent Harnesses & Coding Agents**
 
